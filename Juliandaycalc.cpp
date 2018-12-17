@@ -11,7 +11,8 @@
 
 using namespace std;
 // Below :
-// M = months Y = years D = days MIN = minutes H = hours S = seconds JDN = Julian Day NUmber TOD = Time of Day
+// M = months Y = years D = days D2 = second day M2 = second month Y2 = second year year = gregorian year day = gregorian day
+// mon = gregorian month year2 = second gregorian year day2 = second gregorian day mon2 = second gregorian month
 
 int D, M, Y, D2, M2, Y2, year, day, mon, year2, day2, mon2;
 
