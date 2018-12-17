@@ -18,7 +18,8 @@ This program makes use of the Julian Day Number calculator formulas from https:/
 Fleigel-Van Flandern algorithm which converts the Julian Day Number to gregorian date.
 * This is important because I then construct the program to take these year month and day to calculate the difference in days
 * Our final answer is constructed using the Rate Die formula which essential shifts February to the end of the year to account
-* for the different days of each month as well as leap years (also used if loops to take account for the years I used
+* for the different days of each month as well as leap years (also used if loops to take account for the years I used)
+* Also tells user the amount of hours, minutes, and seconds between 2 dates.
 
 This program was primarily constructed as a practice project to test my skills within C++
 I welcome any critique or optimization that could be made to improve my program. 
